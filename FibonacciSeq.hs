@@ -53,9 +53,5 @@ print (fibSeq 17)
 
 putStrLn "fibSeq 20 should return:" 
 print (fibSeq 20) 
-
-
-
-
   
   
